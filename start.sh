@@ -1,5 +1,5 @@
 #!/bin/bash
 
-# Start the Jupyter notebook with voila
-python -m voila project.ipynb
+exec voila app.ipynb --port=$PORT --no-browser --ip=0.0.0.0
+
 
