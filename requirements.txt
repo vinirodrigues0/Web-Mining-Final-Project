@@ -1,0 +1,8 @@
+voila
+notebook
+numpy
+pandas
+matplotlib
+ipywidgets
+python-dotenv
+requests
